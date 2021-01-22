@@ -1,0 +1,10 @@
+{
+    "required": true,
+    "package": "net.romvoid95.coordless.mixins",
+    "refmap": "mixins.coordless.refmap.json",
+    "minVersion": "0.7.3",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "MixinWorld"
+    ]
+}

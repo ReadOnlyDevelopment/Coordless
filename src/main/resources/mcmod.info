@@ -1,0 +1,16 @@
+[
+{
+  "modid": "coordless",
+  "name": "Coordless",
+  "description": "Redact Player Location in CrashLog - Take That",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ROMVoid95"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
