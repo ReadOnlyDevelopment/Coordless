@@ -17,9 +17,7 @@ the victim uploaded and having free rein to their location, and possibly others 
  
 
 What a log could contain without Coordless installed:
+![Pic1](https://i.imgur.com/XXpbSwn.png)
 
 Now this is what you will get with Coodless
-
-
-
-
+![Pic2](https://i.imgur.com/I8y2CTb.png)
